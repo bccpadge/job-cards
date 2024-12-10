@@ -11,7 +11,7 @@ This is a **Job Card UI component** built with **React.js** and **CSS**, inspire
 
 ## Demo
 
-- View the live demo on [GitHub Pages]() 
+- View the live demo on [GitHub Pages](https://bccpadge.github.io/job-cards/) 
 
 ## Features
 
